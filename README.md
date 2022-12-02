@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rory Thomas
+- 👀 I’m interested in Front-End web development and Content Managemnet Systems development.
+- 🌱 I’m currently learning Javascrip, Liquid, TypeScript, and React.
+- 💞️ I’m looking to collaborate in encouraging E-commerce through shopify stores.
+- 📫 How to reach me: Please email me at rthomascode21@gmail.com
