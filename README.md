@@ -26,4 +26,3 @@
 - 📫 How to reach me:
  Please email me at rthomascode21@gmail.com,
  or add me on social media
-    ● //TODO: Add Facebook and Instagram links 😜
